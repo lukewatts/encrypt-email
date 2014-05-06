@@ -1,4 +1,13 @@
 <?php
+/**
+ * Plugin Name: Encrypt Email
+ * Plugin URI: http://github.com/lukewatts/encrypt-email
+ * Description: A plugin which encrypts mailto links using Wordpress function antispambot()
+ * Version: 1.0.0
+ * Author: Luke Watts
+ * Author URI: http://luke-watts.com
+ * License: GPLv2
+ */
 
 /**
  * Encrypts email using Wordpress function antispambot()
